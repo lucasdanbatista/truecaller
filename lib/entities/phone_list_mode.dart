@@ -1,0 +1,4 @@
+enum PhoneListMode {
+  whitelist,
+  blacklist,
+}
